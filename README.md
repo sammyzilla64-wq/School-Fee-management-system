@@ -13,7 +13,7 @@ Clone the repository:git clone https://github.com/sammyzilla64-wq/School-Fee-man
 Database Setup;    Import the `shule_fees_db.sql` file into your MySQL/MariaDB server to create the database structure.
  Run the application:
 '''bash
-python sammie.py
+python main.py
 Technologies Used
 ​Language: Python
 ​Database: MySQL/MariaDB
