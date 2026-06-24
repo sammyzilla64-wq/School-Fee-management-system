@@ -20,7 +20,3 @@ Technologies Used
 ​Contact
 ​Developed by Sammy.
 ​GitHub: sammyzilla64-wq
-​Pro-Tips:
-​If you rename your .sql file, remember to update the name in the README.md so the instructions remain accurate.
-​Whenever you make updates to your code, remember the standard workflow: git add ., git commit -m "Your update message", and git push.
-​Is there anything else you would like to add to this README to make the project stand out even more to potential employers?
